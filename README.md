@@ -2,6 +2,15 @@
 
 Fun projects for personal use only. Enjoy!
 
+**Language analysis**
+
+<TBD>
+  1. housing?
+  2. smb?
+  3. covid?
+  4. famous controversial textbooks NER-ed?
+
+
 **miniStock_analysisUsing_FBProphet.ipynb:**
 
 Need:
